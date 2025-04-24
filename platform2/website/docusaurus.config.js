@@ -1,6 +1,6 @@
 // @ts-check
 
-// Trigger workflow
+// Trigger workflow again
 // `@type` JSDoc annotations allow editor autocompletion and type checking
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Docusaurus config.
