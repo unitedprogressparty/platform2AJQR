@@ -1,6 +1,5 @@
 ---
-**Sub-Saharan Africa: Central Africa - Strategic U.S. Foreign Policy Analysis**
-
+title: "Sub-Saharan Africa: Central Africa - Strategic U.S. Foreign Policy Analysis"
 ---
 
 ### **Preface**
