@@ -1,0 +1,7 @@
+2024-12-24 21:51:49,745 - ERROR - An error occurred during processing:
+[Errno 22] Invalid argument: 'C:\\platform\\This platf...ustainable.\\*Capitali.t Century*.md'
+2024-12-24 21:59:21,731 - ERROR - Failed to delete file processing.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/platform\\processing.log'
+2024-12-24 21:59:26,396 - ERROR - Failed to delete file processing.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/platform\\processing.log'
+2024-12-24 21:59:56,959 - ERROR - Failed to delete file processing.log: [WinError 32] The process cannot access the file because it is being used by another process: 'C:/platform\\processing.log'
+2024-12-24 22:00:24,535 - INFO - Processing completed successfully!
+2024-12-24 22:00:24,535 - INFO - Processing completed successfully!
